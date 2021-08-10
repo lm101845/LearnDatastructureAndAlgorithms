@@ -1,0 +1,31 @@
+<!--
+ * @Author: liming
+ * @Date: 2021-08-10 18:50:48
+ * @LastEditTime: 2021-08-10 19:07:01
+ * @FilePath: \01-初级算法\01-数组\01-只出现一次的数字\02-只出现一次的数字2.0-失败.html
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+        // 总结：排序了时间复杂度就不是线性了。 题目写了线性复杂度，无额外空间。
+        // 我只要写双重for循环，那么时间复杂度肯定就是O^2,所以肯定不行，要看题目
+        var singleNumber = function (nums) {
+            for(let i = 0; i < nums.length; i++) {
+                console.log(nums[i]);
+                for(let j = 1; j<nums.length; j++) {
+                    if(nums[i] -nums[j] == 0){
+                        console.log('第' + i+  '个元素' +nums[i] + '不是唯一的，继续找' );
+                        i++;
+                        break
+                    }
+                }
+            }
+        }
+    </script>
+  </body>
+</html>
