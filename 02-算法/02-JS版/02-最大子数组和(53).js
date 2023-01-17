@@ -7,11 +7,13 @@
  * 给你一个整数数组 nums ，请你找出一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。子数组 是数组中的一个连续部分。
  * https://leetcode.cn/problems/maximum-subarray/?envType=study-plan&id=shu-ju-jie-gou-ru-men&plan=data-structures&plan_progress=cw3y5li
  */
-let maxSubArray = nums => {
+let maxSubArray = (nums) => {
     let length = nums.length;
     let max = 0;
+    let i = 1
     /**
      * 思路：
+     * 先弄一个子数组，数组长度依次递增,长度从1到length
      * 1个数组中元素求最大值
      * 2个相邻数组中元素求最大值
      * 3个相邻数组中元素求最大值
@@ -28,12 +30,12 @@ let maxSubArray = nums => {
                 max1 = nums[j+1]
             }
         }
-        for(let j = 0; j < length -1 ; j++){
-            let max2 = nums[j] + nums[j+1]
-            if(nums[j+1] + nums[j+2]> max2){
-                max2 = nums[j+1] + nums[j+2]
-            }
-        }
+        // for(let j = 0; j < length -1 ; j++){
+        //     let max2 = nums[j] + nums[j+1]
+        //     if(nums[j+1] + nums[j+2]> max2){
+        //         max2 = nums[j+1] + nums[j+2]
+        //     }
+        // }
     }
 
 }
