@@ -21,6 +21,7 @@ int main()
 	   你需要一个指针来接受这个地址。也就是说这块内存将来要 用来存储什么类型的数据，如：
 　　		char *p = （char *）malloc（100）
 	 */
+
 	//A->next = B;  B->next=C
 
 	system("pause");
