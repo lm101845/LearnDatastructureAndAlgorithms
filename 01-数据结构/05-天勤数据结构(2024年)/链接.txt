@@ -1,0 +1,3 @@
+视频链接：https://www.bilibili.com/video/BV1C84y1q7LA/?p=1
+
+代码是《天勤数据结构高分笔记2024版》上面的代码，我手敲的。
