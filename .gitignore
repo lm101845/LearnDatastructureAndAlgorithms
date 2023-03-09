@@ -1,17 +1,6 @@
-.DS_Store
-node_modules/
-dist/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor directories and files
-.idea
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.vscode
 *.history
 hello-algo-master/*
 *.vs
+图+查找+排序+循环链表+循环链表+数组+广义表+二叉树与树的转换+哈夫曼树.pptx
+算法导论中文版.pdf
+严蔚敏数据结构C语言版第2版.pdf
