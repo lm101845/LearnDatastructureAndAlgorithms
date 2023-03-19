@@ -104,6 +104,7 @@ Status ListDelete_Sq(SqList& L, int i)
 	L.length--;
 	return OK;
 }
+
 int main(int argc, char* argv[])
 {
 	system("PAUSE");
