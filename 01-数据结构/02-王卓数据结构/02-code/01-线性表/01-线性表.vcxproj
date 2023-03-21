@@ -144,6 +144,9 @@
     <ClCompile Include="05_线性表的链式表示与实现_取第i个元素值.cpp" />
     <ClCompile Include="06_线性表的链式表示与实现_按值查找.cpp" />
     <ClCompile Include="07_线性表的链式表示与实现_插入结点.cpp" />
+    <ClCompile Include="08_线性表的链式表示与实现_删除结点.cpp" />
+    <ClCompile Include="09_线性表的链式表示与实现_头插法建立单链表.cpp" />
+    <ClCompile Include="10_线性表的链式表示与实现_尾插法建立单链表.cpp" />
     <ClCompile Include="method.cpp" />
   </ItemGroup>
   <ItemGroup>
