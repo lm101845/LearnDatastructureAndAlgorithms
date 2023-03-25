@@ -42,6 +42,9 @@
     <ClCompile Include="10_线性表的链式表示与实现_尾插法建立单链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_线性表的链式表示与实现_带尾指针循环链表合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
