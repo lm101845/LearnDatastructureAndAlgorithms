@@ -45,6 +45,21 @@
     <ClCompile Include="11_线性表的链式表示与实现_带尾指针循环链表合并.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12_双向链表的插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_双向链表的删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_线性表应用_线性表合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_线性表应用_链表实现有序表的合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_案例实现_多项式运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
