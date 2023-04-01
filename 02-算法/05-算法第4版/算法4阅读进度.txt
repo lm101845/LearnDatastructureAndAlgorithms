@@ -1,0 +1,10 @@
+《算法第4版》是我在网上买的纸质书，使用Java来实现的，建议新手先看这本书，再看《算法导论》
+
+学习算法，算法(第四版)和算法导论应该先看哪本？
+https://www.zhihu.com/question/427420905/answer/1550020578
+
+书上代码：
+https://algs4.cs.princeton.edu/code/
+
+《算法》第四版官网库及数据文件：
+https://blog.csdn.net/Aimer0/article/details/104769145

@@ -10,10 +10,12 @@
 #define OVERFLOW -2
 #define MAXSTACK 100
 #define MAXSIZE 100
+#define MAXLEN 255
+#define CHUNKSIZE 80   //块链
 typedef int Status;
 //Status是函数的类型，其值是函数结果状态代码
 typedef char ElemType;
-typedef char SElemType;  //栈数据类型
-typedef char QElemType;  //队列数据类型
+
 #endif
+
 

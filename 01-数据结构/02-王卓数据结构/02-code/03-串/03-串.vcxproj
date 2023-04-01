@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3ce1484e-89c3-4e5d-8420-b80811faa2da}</ProjectGuid>
-    <RootNamespace>My02栈和队列</RootNamespace>
+    <ProjectGuid>{303d85aa-8033-49e7-bf02-aa73e26092b9}</ProjectGuid>
+    <RootNamespace>My03串</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,12 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_顺序栈的表示及初始化.cpp" />
-    <ClCompile Include="02_顺序栈基本操作.cpp" />
-    <ClCompile Include="03_栈的链式表示与实现.cpp" />
-    <ClCompile Include="04_顺序队列的初始化.cpp" />
-    <ClCompile Include="05_链式队列的初始化.cpp" />
-    <ClCompile Include="06_离散事件模拟_银行排队.cpp" />
+    <ClCompile Include="01_串的顺序存储结构.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h" />
