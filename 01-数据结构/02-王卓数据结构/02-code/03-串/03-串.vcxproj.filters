@@ -18,6 +18,12 @@
     <ClCompile Include="01_串的顺序存储结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02_串的模式匹配算法_BF算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03_串的模式匹配算法_KMP算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
