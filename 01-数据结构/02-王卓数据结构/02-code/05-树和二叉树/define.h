@@ -15,6 +15,8 @@
 typedef int Status;
 //Status是函数的类型，其值是函数结果状态代码
 typedef char ElemType;
+typedef char BTNode;
+typedef char TElemType;
 
 #endif
 

@@ -141,6 +141,16 @@
   <ItemGroup>
     <ClCompile Include="01_二叉树先序遍历算法.cpp" />
     <ClCompile Include="02_中序遍历非递归算法.cpp" />
+    <ClCompile Include="03_二叉树的层次遍历.cpp" />
+    <ClCompile Include="04_建立二叉树算法.cpp" />
+    <ClCompile Include="05_复制二叉树.cpp" />
+    <ClCompile Include="06_计算二叉树深度.cpp" />
+    <ClCompile Include="07_计算二叉树结点总数.cpp" />
+    <ClCompile Include="08_计算二叉树叶子结点数.cpp" />
+    <ClCompile Include="09_线索二叉树.cpp" />
+    <ClCompile Include="10_树的存储结构_双亲表示法.cpp" />
+    <ClCompile Include="11_树的存储结构_孩子表示法.cpp" />
+    <ClCompile Include="12_树的存储结构_孩子兄弟表示法.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h" />
