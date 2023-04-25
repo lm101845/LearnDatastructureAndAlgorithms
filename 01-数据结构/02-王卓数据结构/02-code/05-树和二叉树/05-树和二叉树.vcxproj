@@ -151,6 +151,7 @@
     <ClCompile Include="10_树的存储结构_双亲表示法.cpp" />
     <ClCompile Include="11_树的存储结构_孩子表示法.cpp" />
     <ClCompile Include="12_树的存储结构_孩子兄弟表示法.cpp" />
+    <ClCompile Include="13_哈夫曼树构造算法实现.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h" />

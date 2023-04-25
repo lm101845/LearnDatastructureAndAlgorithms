@@ -51,6 +51,9 @@
     <ClCompile Include="12_树的存储结构_孩子兄弟表示法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13_哈夫曼树构造算法实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
