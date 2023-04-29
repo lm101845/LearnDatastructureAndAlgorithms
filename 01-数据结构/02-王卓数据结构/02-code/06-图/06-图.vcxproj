@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="01_数组表示法_邻接矩阵.cpp" />
     <ClCompile Include="02_邻接表存储表示.cpp" />
+    <ClCompile Include="03_采用邻接矩阵表示图的深度优先搜索遍历.cpp" />
+    <ClCompile Include="04_按广度优先非递归遍历联通图.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h" />
